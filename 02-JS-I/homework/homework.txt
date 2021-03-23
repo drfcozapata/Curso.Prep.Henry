@@ -1,0 +1,13 @@
+DEFINICIONES
+
+Variables: son pequeños sitios en tu computadora donde vamos a guardar cosas que vamos a utilizar después y, si es necesario, podemos cambiar lo que habíamos guardado y poner otra cosa.
+
+Strings: son cadenas, como pequeños trenes formados por letras, números y otros símbolos.
+
+Funciones: son estructuras que vamos a formar utilizando una palabra especial (function) seguida del nombre que le queramos poner, y las vamos a utilizar para hacer tareas que debemos repetir muchas veces.
+-Argumentos: dentro de las funciones, los usamos para decirle a la función qué queremos que utilice para poder obtener lo que necesitamos.
+-Return: Es otra palabra especial que usamos dentro de las funciones y que le dice a la función que termine y nos entregue el resultado que queremos.
+
+Declaraciones if: son otro tipo de estructura que vamos a usar para decirle a una función las condiciones que queremos que se cumplan, y qué hacer si éstas se cumplen o no.
+
+Valores booleanos: son un tipo especial de valor nos van a mostrar si la condición que establecimos es cierta (true) o falsa (false).
