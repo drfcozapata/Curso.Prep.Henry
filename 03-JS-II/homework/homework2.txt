@@ -1,0 +1,6 @@
+CONCEPTOS
+
+for: es una expresión que usamos para crear un ciclo de comparación y significa "para". Para una condición dada, has luego tal cosa.
+&&: son dos símbolos que significan "Y", y los utilizamos para comparar dos o más expresiones, siendo necesario que se cumplan para que el valor sea verdadero. 
+||: son dos símbolos que unidos siginfican "O", y los utilizamos para comparar dos o más expresiones cuando necesitamos que se cumpla alguna de las ellas.
+!: es un símbolo que utilizamos para decir que NO; cuando lo usamos decimos que lo que sigue es lo contrario de lo que normalmente significa.
