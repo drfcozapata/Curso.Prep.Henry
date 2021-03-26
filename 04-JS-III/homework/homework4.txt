@@ -1,0 +1,2 @@
+ARRAY: los array o arreglos son colecciones de elementos, y aceptan todos los tipos de elementos existentes en JavaScript: scripts, números, booleanos, null, undefined, objetos, arreglos y funciones.
+Para enumerar sus elementos, comenzamos en 0, siendo 0 el elemento 1, 1 el elemento 2, y así sucesivamente.
