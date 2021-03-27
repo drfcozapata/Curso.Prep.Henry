@@ -1,0 +1,11 @@
+CONCEPTOS
+
+Objetos: son colecciones de elementos en forma de pares donde una parte del par define la clave o propiedad que queremos almacenar y la otra es el valor correspondiente a esa clave.
+
+Propiedades: es la parte del par almacenado en el objeto que establece o define qué es lo que estamos guardando, también llamado clave o keyword.
+
+Métodos: es el nombre dado a las funciones dentro de un objeto.
+
+Bucle for…in: es el método que nos permite recorrer e iterar los elementos contenidos en un objeto.
+
+Notación de puntos vs notación de corchetes: son las formas para acceder a los valores de las claves de un objeto. En la primera, nombramos al objeto seguido de un punto e inmediatamente la clave que queremos llamar (objeto.clave); en la segunda, en lugar del punto, llamamos la clave encerrando en corchetes y comillas la clave llamada (objeto['clave']).
